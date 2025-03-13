@@ -1,5 +1,6 @@
 NAME_ARCHIVE: archive.txt
 PROYECT_NAME: Repositorio
 
+[----SECCIÓN: INFO TRABAJADOR 1 -----]
 NAME: TRABAJADOR 1
 DESCRIPTION: MODIFICACION DE archive.txt por el Trabajador 1
