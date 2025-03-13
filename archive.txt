@@ -1,2 +1,14 @@
 NAME_ARCHIVE: archive.txt
 PROYECT_NAME: Repositorio
+
+TRABAJADOR 2
+NUEVA INFO
+
+
+
+
+
+
+
+
+
